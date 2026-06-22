@@ -21,11 +21,21 @@ Example Domain.
 - 1
 
 # Website 2
-Navigation menu - Tag wrapped in.
+### Navigation menu - Tag wrapped in. 
+- nav
 
-How is the search bar structured.
+### How is the search bar structured.
 
-What happens when you hover over the links.
+Key elements:
+- A <form> container
+- An <input type="search"> field for entering queries
+- A submit <button>
+- Accessibility attributes such as role="search" and aria-label
 
+### What happens when you hover over the links.
+- Text color changes
+- Underline appears or becomes more prominent
+- Background color may change slightly
+- Cursor changes to a pointer
 
 # Website 3. (Any website of your choice)
