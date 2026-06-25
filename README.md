@@ -11,9 +11,9 @@ Devtools-exploration.md for class assignment.
 ## Technologies Used
 - HTML
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
+- HTML tags.
+- Navigation menu.
+- Search bar.
 
 ## How to Run
 1. Clone this repository
@@ -22,13 +22,10 @@ Devtools-exploration.md for class assignment.
    Run `npm install` then `npm start`
 
 ## Lessons Learned
-What did you learn while building this project?
+I learnt how different HTML tags are applied and how they affect how a webpage appears.
 
 ## Challenges Faced
-What problems did you encounter and how did you solve them?
-
-## Screenshots (optional)
-![Screenshot description](path/to/screenshot.png)
+I had a challenge with accessing the webpage information to get the html file that I resolved with researching online.
 
 ## Live Demo (if deployed)
 [View Live Demo](https://your-deployed-url.com)
